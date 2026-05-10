@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/language-learning-platform-344136-344152/linguaspeak_frontend"
+}
